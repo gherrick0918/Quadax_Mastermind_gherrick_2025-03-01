@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadax_Mastermind_gherrick_2025-03-01", "Quadax_Mastermind_gherrick_2025-03-01\Quadax_Mastermind_gherrick_2025-03-01.csproj", "{C02D717C-525B-44A8-8115-81B31B12B70C}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{7D0C3D92-86AA-4474-BBA3-2E094BB89F1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadax_Mastermind_gherrick_2025-03-01.Tests", "tests\Quadax_Mastermind_gherrick_2025-03-01.Tests\Quadax_Mastermind_gherrick_2025-03-01.Tests.csproj", "{62450E69-B944-40C8-8103-69BF41B6319A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadax_Mastermind_gherrick_2025-03-21", "Quadax_Mastermind_gherrick_2025-03-21\Quadax_Mastermind_gherrick_2025-03-21.csproj", "{B56E89BD-ACEC-6D62-CCC3-45A1B1BD4B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadax_Mastermind_gherrick_2025-03-21.Tests", "tests\Quadax_Mastermind_gherrick_2025-03-21.Tests\Quadax_Mastermind_gherrick_2025-03-21.Tests.csproj", "{1DBAAD81-A5E6-E3F9-DAAD-CF2FDDFC6913}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,20 +15,20 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C02D717C-525B-44A8-8115-81B31B12B70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C02D717C-525B-44A8-8115-81B31B12B70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C02D717C-525B-44A8-8115-81B31B12B70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C02D717C-525B-44A8-8115-81B31B12B70C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{62450E69-B944-40C8-8103-69BF41B6319A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{62450E69-B944-40C8-8103-69BF41B6319A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{62450E69-B944-40C8-8103-69BF41B6319A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{62450E69-B944-40C8-8103-69BF41B6319A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56E89BD-ACEC-6D62-CCC3-45A1B1BD4B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56E89BD-ACEC-6D62-CCC3-45A1B1BD4B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56E89BD-ACEC-6D62-CCC3-45A1B1BD4B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56E89BD-ACEC-6D62-CCC3-45A1B1BD4B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DBAAD81-A5E6-E3F9-DAAD-CF2FDDFC6913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DBAAD81-A5E6-E3F9-DAAD-CF2FDDFC6913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DBAAD81-A5E6-E3F9-DAAD-CF2FDDFC6913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DBAAD81-A5E6-E3F9-DAAD-CF2FDDFC6913}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{62450E69-B944-40C8-8103-69BF41B6319A} = {7D0C3D92-86AA-4474-BBA3-2E094BB89F1B}
+		{1DBAAD81-A5E6-E3F9-DAAD-CF2FDDFC6913} = {7D0C3D92-86AA-4474-BBA3-2E094BB89F1B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {01577CE3-0ED6-49A0-BC7C-B90DCB191D8F}
