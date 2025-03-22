@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "2xRG2zYO2ZsMxPbRWaAcE9397I1ewHRqdlmRSOb7hplXHgsl93b/LVmW3z+8meTuGdH+6tg1YH+aphULaLmdYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gherr\\source\\repos\\Quadax_Mastermind_gherrick_2025-03-21\\tests\\Quadax_Mastermind_gherrick_2025-03-01.Tests\\Quadax_Mastermind_gherrick_2025-03-01.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gherr\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\fluentassertions\\8.2.0\\fluentassertions.8.2.0.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\microsoft.codecoverage\\17.13.0\\microsoft.codecoverage.17.13.0.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\microsoft.net.test.sdk\\17.13.0\\microsoft.net.test.sdk.17.13.0.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.5.3\\microsoft.testing.extensions.telemetry.1.5.3.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.5.3\\microsoft.testing.extensions.trxreport.abstractions.1.5.3.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.5.3\\microsoft.testing.extensions.vstestbridge.1.5.3.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\microsoft.testing.platform\\1.5.3\\microsoft.testing.platform.1.5.3.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.5.3\\microsoft.testing.platform.msbuild.1.5.3.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.13.0\\microsoft.testplatform.objectmodel.17.13.0.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\microsoft.testplatform.testhost\\17.13.0\\microsoft.testplatform.testhost.17.13.0.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\nsubstitute\\5.3.0\\nsubstitute.5.3.0.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\nunit.analyzers\\4.6.0\\nunit.analyzers.4.6.0.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\nunit3testadapter\\5.0.0\\nunit3testadapter.5.0.0.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\gherr\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
